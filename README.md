@@ -9,7 +9,7 @@ Bu proje, siteniz yayına hazırlanırken ziyaretçilere profesyonel bir “Yap�
 - 📱 Mobil uyumlu ve duyarlı tasarım
 - ⏳ Geri sayım sayacı (isteğe bağlı)
 - 📧 E-posta ile bildirim toplama (isteğe bağlı entegrasyon)
-
+#DEMO(https://under-construction.botanozalp.com/)
 ## 🚀 Kurulum
 
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin:
