@@ -3,7 +3,7 @@ import { Construction, Code2, Rocket, Sparkles } from 'lucide-react';
 
 function App() {
   const [isLoaded, setIsLoaded] = useState(false);
-  const siteName = import.meta.env.REACT_APP_SITE_NAME || "Senin-Alan-Adın.com";
+  const siteName = import.meta.env.VITE_SITE_NAME || "Senin-Alan-Adın.com";
   useEffect(() => {
     setIsLoaded(true);
   }, []);
